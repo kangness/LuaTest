@@ -1,0 +1,9 @@
+01/13/13 01:08:02 INFO logging.file test
+01/13/13 01:08:02 DEBUG debugging....
+01/13/13 01:08:02 ERROR error!!!!
+01/13/13 01:08:27 INFO logging.file test
+01/13/13 01:08:27 DEBUG debugging....
+01/13/13 01:08:27 ERROR error!!!!
+01/13/13 01:08:28 INFO logging.file test
+01/13/13 01:08:28 DEBUG debugging....
+01/13/13 01:08:28 ERROR error!!!!
